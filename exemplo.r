@@ -6,4 +6,12 @@
 
 10+10
 
-a versao remota
+#a versao remota
+
+100/10
+
+20*20
+
+50-10
+
+#novas atualizações
